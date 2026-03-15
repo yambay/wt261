@@ -14,7 +14,7 @@ backgroundColor: #1a1a1a
 
 ---
 
-![bg brightness:0.4](img/Was_ist_Whisky.png)
+![bg brightness:0.4](img/Was_ist_Whisky.jpg)
 
 # 1. Was ist Whisky eigentlich?
 
@@ -26,7 +26,7 @@ backgroundColor: #1a1a1a
 
 ---
 
-![bg brightness:0.4](img/Heilige_Dreifaltigkeit.png)
+![bg brightness:0.4](img/Heilige_Dreifaltigkeit.jpg)
 
 # 2. Die „Heilige Dreifaltigkeit“
 ### Die drei Grundzutaten
@@ -39,7 +39,7 @@ Whisky ist ein Naturprodukt. Er besteht im Kern aus nur drei Komponenten:
 
 ---
 
-![bg right:40%](Fass.jpeg)
+![bg right:40%](Fass.jpg)
 
 # 3. Der Weg zum Aroma
 ### Woher kommen die 100% Geschmack?
@@ -51,11 +51,11 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 * **Das Fass (bis zu 70% des Geschmacks):** Die Eiche spendet Vanille, Karamell, Tannine und die charakteristische Farbe.
 
 ---
-![bg](img/Whisky_Regions.png)
+![bg](img/Whisky_Regions.jpg)
 
 ---
 
-![bg](img/Deanston.png)
+![bg](img/Deanston.jpg)
 
 # Deanston
 
@@ -63,7 +63,7 @@ https://www.whiskybase.com/whiskies/whisky/195883/deanston-10-year-old
 
 ---
 
-![bg brightness:0.4](img/Malting_Floor.jpeg)
+![bg brightness:0.4](img/Malting_Floor.jpg)
 
 # Die Geburt des flüssigen Goldes
 
@@ -72,7 +72,7 @@ https://www.whiskybase.com/whiskies/whisky/195883/deanston-10-year-old
 
 ---
 
-![bg brightness:0.4](img/Washback.jpeg)
+![bg brightness:0.4](img/Washback.jpg)
 
 # Die Geburt des flüssigen Goldes
 
@@ -81,7 +81,7 @@ https://www.whiskybase.com/whiskies/whisky/195883/deanston-10-year-old
 
 ---
 
-![bg brightness:0.4](img/Stills.jpeg)
+![bg brightness:0.4](img/Stills.jpg)
 
 # Die Geburt des flüssigen Goldes
 
@@ -90,7 +90,7 @@ https://www.whiskybase.com/whiskies/whisky/195883/deanston-10-year-old
 
 ---
 
-![bg brightness:0.4](img/Warehouse.jpeg)
+![bg brightness:0.4](img/Warehouse.jpg)
 
 # Die Reifung: Geduld in Eiche
 ### Wo der "Spirit" seine Seele findet
