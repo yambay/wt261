@@ -102,8 +102,6 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 
 ![bg](img/Deanston.jpg)
 
-# Deanston
-
 ---
 
 # Deanston Distillery
@@ -137,8 +135,6 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 ---
 
 ![bg](img/Glenrothes.JPG)
-# Glenrothes
-
 
 ---
 
@@ -168,7 +164,6 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 ---
 
 ![bg](img/Miltonduff.JPG)
-# Miltonduff
 
 ---
 
@@ -198,7 +193,6 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 ---
 
 ![bg](img/GlenMoray.JPG)
-# Glen Moray
 
 ---
 # Glen Moray Distillery
@@ -227,7 +221,11 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 
 ---
 
-# Benromach
+![bg](img/Benromach_1.JPG)
+
+---
+
+![bg](img/Benromach_2.JPG)
 
 ---
 
@@ -257,7 +255,7 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 
 ---
 
-# ??? (Islay as we get it)
+![bg](./img/Mystery_Distillery.jpg)
 
 ---
 
@@ -273,7 +271,7 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 
 ---
 
-# Benromach 2012
+# Mystery Distillery
 
 ### Details zur Abfüllung
 * **Destilliert:** 2015 
