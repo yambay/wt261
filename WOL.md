@@ -225,10 +225,6 @@ Obwohl die Zutaten simpel sind, ist das Ergebnis komplex:
 
 ---
 
-![bg](img/Benromach_2.JPG)
-
----
-
 # Benromach Distillery
 ## Die Fakten
 
